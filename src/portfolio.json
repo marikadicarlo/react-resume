@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Password Generator",
+        "image": "https://github.com/marikadicarlo/Password-Generator/blob/main/Images/passwordgen.jpg",
+        "github": "https://github.com/marikadicarlo/Password-Generator",
+        "deploy": "https://marikadicarlo.github.io/Password-Generator/",
+        "topics": "html, javascript, css"
+    },
+    {
+        "id": 2,
+        "name": "Note Taker",
+        "image": "https://github.com/marikadicarlo/sticky-notes/blob/main/stickynotes.png",
+        "github": "https://github.com/marikadicarlo/sticky-notes",
+        "deploy": "https://stark-peak-32409.herokuapp.com/notes",
+        "topics": "node, sequelize, handlebars, express-session, jawsdb, mysql, model-view-controller, dotenv"
+    },
+    {
+        "id": 3,
+        "name": "Weather Dashboard",
+        "image": "https://github.com/marikadicarlo/WeatheredDashboard/blob/main/assets/WeatherDashboard.png",
+        "github": "https://github.com/marikadicarlo/WeatheredDashboard",
+        "deploy": "https://marikadicarlo.github.io/WeatheredDashboard/",
+        "topics": "moment.js, javascript, jQuery, localStorage, API"
+    },
+    {
+        "id": 4,
+        "name": "Budget Tracker",
+        "image": "https://github.com/marikadicarlo/budget-binder/blob/main/budget-binder.png",
+        "github": "https://github.com/marikadicarlo/budget-binder",
+        "deploy": "https://powerful-earth-32807.herokuapp.com/",
+        "topics": "node, express, javascript, mongoDB, mongoose, nodemon"
+    },
+    {
+        "id": 5,
+        "name": "Code Quiz",
+        "image": "https://github.com/marikadicarlo/CodingQuiz/blob/main/codingquiz.png",
+        "github": "https://github.com/marikadicarlo/CodingQuiz",
+        "deploy": "https://marikadicarlo.github.io/CodingQuiz/",
+        "topics": "html, css, javascript"
+    },
+    {
+        "id": 6,
+        "name": "Personal Info Locker",
+        "image": "https://github.com/Zacharycampanelli/Personal_Info_Locker/blob/main/public/images/Screenshot_1.png",
+        "github": "https://github.com/Zacharycampanelli/Personal_Info_Locker",
+        "deploy": "https://sleepy-cove-57890.herokuapp.com/",
+        "topics": "node, express.js, Sequelize, Handlbars"
+    }
+]

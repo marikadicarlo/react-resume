@@ -65,9 +65,8 @@ function ContactForm() {
         </div>
         <div class="mt-5">
           <label htmlFor="message">Message: </label>
-          <input
+          <textarea
             class="form-control"
-            type="text"
             name="message"
             defaultValue={message}
             onBlur={handleChange}

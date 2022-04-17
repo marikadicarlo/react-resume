@@ -1,17 +1,16 @@
-import React, {useState} from 'react';
-import Nav from './components/Nav';
+import React from 'react';
 import Header from './components/Header';
 import Footer from './components/Footer';
-import ContactForm from './components/Contact';
-// import About, Contact, Resume??
+import "./App.css";
+import "bootstrap/dist/css/bootstrap.min.css";
 
 
 function App() {
   return (
     <div>
-              <Nav></Nav>
+              {/* <Nav></Nav> */}
       <main>
-        <ContactForm></ContactForm>
+        {/* <ContactForm></ContactForm> */}
         <Header></Header>
         <Footer></Footer>
       </main>

@@ -1,9 +1,9 @@
 # react-resume
 
-[Click Here Deployed Link]()
+[Click Here Deployed Link](https://marikadicarlo.github.io/react-resume/)
 
 
-![react-resume]()
+![react-resume](/react-resume.jpg)
 
 # Description
 This portfolio was built with React. It showcases my work and other information to potential clients.

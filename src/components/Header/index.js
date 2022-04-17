@@ -1,18 +1,30 @@
-import React from "react";
-import coverImage from "../../assets/cover/cover-image.png";
+import React, { Component } from "react";
+import { Route, Redirect, HashRouter } from "react-router-dom";
+import Navigation from "../../components/Navigation";
+import About from "../../components/About";
+import Portfolio from "../../components/Portfolio";
+import Contact from '../../components/Contact';
+import Resume from "../Resume";
 
-function Header() {
-  return (
-    <section className="my-5">
-      <h1 id="about">Marika</h1>
-      <img
-        src={coverImage}
-        className="my-2"
-        style={{ width: "33%" }}
-        alt="cover"
-      />
-    </section>
-  );
+
+class Header extends Component {
+  render() {
+    return (
+      <HashRouter>
+        <header>
+          <Navigation />
+        </header>
+
+        <div className="content">
+          <Route exact path="/" render={() => <Redirect to="/about" />} />
+          <Route path="/about" component={About} />
+          <Route path="/portfolio" component={Portfolio} />
+          <Route path="/contact" component={Contact}/>
+          <Route path="/resume" component={Resume}/>
+        </div>
+      </HashRouter>
+    );
+  }
 }
 
 export default Header;
