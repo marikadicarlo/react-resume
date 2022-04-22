@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-resume/static/css/main.303e3bdf.css",
+    "main.js": "/react-resume/static/js/main.b6335307.js",
+    "static/js/787.be9df7c6.chunk.js": "/react-resume/static/js/787.be9df7c6.chunk.js",
+    "static/media/glyphicons-halflings-regular.svg": "/react-resume/static/media/glyphicons-halflings-regular.060b2710bdbbe3dfe48b.svg",
+    "static/media/glyphicons-halflings-regular.ttf": "/react-resume/static/media/glyphicons-halflings-regular.4692b9ec53fd5972caa2.ttf",
+    "static/media/glyphicons-halflings-regular.woff": "/react-resume/static/media/glyphicons-halflings-regular.82b1212e45a2bc35dd73.woff",
+    "static/media/avatar.jpg": "/react-resume/static/media/avatar.2af9a5a9ac723c4ade86.jpg",
+    "static/media/glyphicons-halflings-regular.eot": "/react-resume/static/media/glyphicons-halflings-regular.5be1347c682810f199c7.eot",
+    "static/media/glyphicons-halflings-regular.woff2": "/react-resume/static/media/glyphicons-halflings-regular.be810be3a3e14c682a25.woff2",
+    "index.html": "/react-resume/index.html",
+    "main.303e3bdf.css.map": "/react-resume/static/css/main.303e3bdf.css.map",
+    "main.b6335307.js.map": "/react-resume/static/js/main.b6335307.js.map",
+    "787.be9df7c6.chunk.js.map": "/react-resume/static/js/787.be9df7c6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.303e3bdf.css",
+    "static/js/main.b6335307.js"
+  ]
+}
