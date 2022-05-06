@@ -33,11 +33,11 @@
     },
     {
         "id": 5,
-        "name": "Code Quiz",
+        "name": "Project 3 - MERN ",
         "image": "https://github.com/marikadicarlo/CodingQuiz/blob/main/codingquiz.png",
-        "github": "https://github.com/marikadicarlo/CodingQuiz",
-        "deploy": "https://marikadicarlo.github.io/CodingQuiz/",
-        "topics": "html, css, javascript"
+        "github": "https://github.com/danielle-gan/dream-big",
+        "deploy": "https://git.heroku.com/tranquil-plains-23196.git",
+        "topics": "node, express, mongoDB, mongoose, nodemon, graphQL"
     },
     {
         "id": 6,
